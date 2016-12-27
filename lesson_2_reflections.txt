@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It create the hiddem folder name ".git", to createa VCS and track and restore the changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Its diffrent from working directory as it will contain only the file which where added to it and waiting to be a commit. It helps us to backup only the file we want instead of all the files.
