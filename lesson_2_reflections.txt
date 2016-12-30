@@ -10,3 +10,6 @@ It can be helpful while testing or sharing with friends to give them oppurtunity
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 merge commands adds the common code of the file which were in master file and code that were commited in diffrent branches.
  i dont know haha
+
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
