@@ -6,3 +6,7 @@ Its diffrent from working directory as it will contain only the file which where
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 It can be helpful while testing or sharing with friends to give them oppurtunity to test adn deploy project while doing in team.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merge commands adds the common code of the file which were in master file and code that were commited in diffrent branches.
+ i dont know haha
