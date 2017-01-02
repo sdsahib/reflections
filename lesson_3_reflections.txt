@@ -1,1 +1,2 @@
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork is cloning the repository on the github, clone is copying the repository on local directory or copying the repo from the gihub, brach is createing the new head of the repo, in order to test and deploy new feature. I hope above answer is enough. 
